@@ -1,0 +1,6 @@
+3:
+a) 9, são ímpares. 
+b)128, pois são potências de 2, então será o dobro. 
+c)49, pois são números ao quadrado e então será 7^7. 
+d) 100, pois 16-4 = 12, 36-16 = 20, 64-36 = 28, então sempre adiciona 8 entre as subtrações, logo fazendo uma equação básica: x-64 = 28+8 => x - 64 = 36 => x = 100. 
+e) 13, pois é a sequência de fibonacci. f) 200, pois é o número mais próximo que começa com a letra 'd'
